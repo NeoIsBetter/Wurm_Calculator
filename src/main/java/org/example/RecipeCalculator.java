@@ -13,6 +13,7 @@ public class RecipeCalculator extends JFrame {
     private static final int CYCLE     = 138;
 
     // Vegetable base values
+    //Check
     private static final Map<String,Integer> VEGETABLES = Map.of(
             "Cucumber", 17,
             "Carrot",    41,
